@@ -1,0 +1,9 @@
+pandas
+numpy
+fuzzywuzzy
+python-Levenshtein
+textblob
+spacy
+faker
+matplotlib
+seaborn
