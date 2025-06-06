@@ -102,6 +102,16 @@ CRM-Data-Cleaning/
 ├── 🔧 config.py              # Configuration settings
 └── 📖 README.md              # This file
 ```
+Screenshots -
+
+Graph-
+
+### 📊 Graph
+![Graph](https://github.com/Jishnubrata/CRM-Data-Cleaning/raw/main/Graph.png)
+
+### 🧾 Output
+
+![Output](https://github.com/Jishnubrata/CRM-Data-Cleaning/blob/main/Output.png)
 
 💡 Usage Examples
 Basic Data Cleaning
