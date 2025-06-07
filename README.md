@@ -1,9 +1,6 @@
 # CRM-Data-Cleaning
 This project is a smart AI-powered CRM data cleaning and validation pipeline. It automates data quality improvements in customer relationship management (CRM) systems using Python, NLP, and fuzzy matching.
 
-
-
-
 🎯 Overview
 Customer Relationship Management (CRM) data often suffers from quality issues like duplicate entries, inconsistent formatting, extra spaces, and unstructured customer feedback. This project provides an automated solution that leverages Natural Language Processing (NLP) and Python-based logic to clean and enhance CRM data efficiently.
 
