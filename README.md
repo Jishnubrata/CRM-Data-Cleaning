@@ -1,18 +1,18 @@
-# CRM-Data-Cleaning
+## CRM-Data-Cleaning
 This project is a smart AI-powered CRM data cleaning and validation pipeline. It automates data quality improvements in customer relationship management (CRM) systems using Python, NLP, and fuzzy matching.
 
-🎯 Overview
+## 🎯 Overview
 Customer Relationship Management (CRM) data often suffers from quality issues like duplicate entries, inconsistent formatting, extra spaces, and unstructured customer feedback. This project provides an automated solution that leverages Natural Language Processing (NLP) and Python-based logic to clean and enhance CRM data efficiently.
 
 The system automatically:
 
-✅ Removes unwanted spaces and standardizes formatting
-🔍 Detects and eliminates duplicate records using intelligent fuzzy matching
-🧠 Performs sentiment analysis on customer interaction notes
-📊 Generates clean, structured datasets ready for business analysis
+ - ✅ Removes unwanted spaces and standardizes formatting
+ - 🔍 Detects and eliminates duplicate records using intelligent fuzzy matching
+ - 🧠 Performs sentiment analysis on customer interaction notes
+ - 📊 Generates clean, structured datasets ready for business analysis
 
 
-🚀 Features
+## 🚀 Features
 
 Core Functionality:
 1. Automated Data Cleaning: Removes extra spaces, standardizes formats, and corrects inconsistencies
@@ -28,7 +28,7 @@ Technical Highlights:
 4. Real-time Processing: Can be integrated into live CRM systems
 5. Compliance Ready: Maintains data privacy and security standards
 
-🛠️ Technology Stack
+## 🛠️ Technology Stack
 | Component | Technology | Purpose |
 |-----------|------------|---------|
 | **Backend** | Python 3.8+ | Core processing |
@@ -36,7 +36,7 @@ Technical Highlights:
 | **Data Processing** | Pandas, NumPy | Data manipulation |
 | **Visualization** | Matplotlib | Charts and graphs |
 
-📋 Prerequisites
+## 📋 Prerequisites
 
 Before running this project, ensure you have:
 1.Python 3.8 or higher
@@ -44,7 +44,7 @@ Before running this project, ensure you have:
 3.8GB+ RAM (recommended for large datasets)
 4.Basic understanding of CRM data structures
 
-⚡ Quick Start
+## ⚡ Quick Start
 1. Clone the Repository
 ```bash
 git clone https://github.com/Jishnubrata/CRM-Data-Cleaning.git
@@ -99,7 +99,7 @@ CRM-Data-Cleaning/
 ├── 🔧 config.py              # Configuration settings
 └── 📖 README.md              # This file
 ```
-Screenshots -
+## Screenshots -
 
 Graph-
 
@@ -181,7 +181,7 @@ BATCH_SIZE = 1000
 OUTPUT_FORMAT = 'csv'
 ```
 
-📈 Performance Metrics
+## 📈 Performance Metrics
 The system has been tested with various dataset sizes:
 
 | Dataset Size | Processing Time | Memory Usage | Accuracy | Status |
@@ -190,7 +190,7 @@ The system has been tested with various dataset sizes:
 | 10K records  | 2.5 minutes     | 512 MB       | 96.5%    | ✅ |
 | 100K records | 18 minutes      | 2.1 GB       | 95.2%    | ⚠️ |
 
-🧪 Testing
+## 🧪 Testing
 Run the test suite to ensure everything works correctly:
 
 ```bash
@@ -204,7 +204,7 @@ python -m pytest tests/test_cleaning.py -v
 python -m pytest --cov=src tests/
 ```
 
-🤝 Contributing
+## 🤝 Contributing
 We welcome contributions! Please follow these steps:
 1. Fork the repository
 2. Create a feature branch (git checkout -b feature/AmazingFeature)
@@ -212,13 +212,13 @@ We welcome contributions! Please follow these steps:
 4. Push to the branch (git push origin feature/AmazingFeature)
 5. Open a Pull Request
 
-📚 Documentation
+## 📚 Documentation
 For detailed documentation, please refer to:
 - API Documentation
 - User Guide
 - Troubleshooting
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 - Real-time Processing: Live CRM data cleaning pipeline
 - Web Dashboard: Interactive UI for data quality monitoring
 - API Integration: RESTful APIs for enterprise systems
@@ -226,10 +226,10 @@ For detailed documentation, please refer to:
 - Multi-language Support: Support for non-English customer data
 - Cloud Deployment: AWS/Azure integration for scalability
 
-📝 License
+## 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-📞 Support
+## 📞 Support
 If you encounter any issues or have questions:
 📧 Email: gjishnubrata@gmail.com
 
